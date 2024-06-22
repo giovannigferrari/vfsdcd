@@ -3,7 +3,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="css.css">
-    <script src="hybrg.js"></script>
 </head>
 <body>
     <div class="container">
@@ -62,5 +61,6 @@
             <p>© 2024. Todos os direitos reservados.</p>
         </footer>
     </div>
+    <script src="hybrg.js"></script>
 </body>
 </html>
