@@ -32,6 +32,7 @@
                     <tr>
                         <td class="space1"><img src="Coração.jpg" alt="Imagem de coração" class="img-large"></td>
                         <td> João Marqezini se destaca por ser um otimo amigo com diversas qualidades, apesar de seu gosto peculiar e preferencias estranhasa é um amigo que pode ser contado e um otimo ser humano</td>
+                        <br>
                         <td class="space2"><img src="amigo.jpg" alt="Imagem de download" class="img-large"></td>
                     </tr>
                     <tr>
@@ -61,6 +62,5 @@
             <p>© 2024. Todos os direitos reservados.</p>
         </footer>
     </div>
-    <script src="hybrg.js"></script>
 </body>
 </html>
